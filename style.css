@@ -69,7 +69,7 @@ body {
     height: 135px;
 
     object-fit: cover;
-    object-position: center 40%;
+    object-position: center center;
 
     border-radius: 50%;
 
